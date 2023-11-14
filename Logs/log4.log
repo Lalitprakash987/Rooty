@@ -1,0 +1,204 @@
+13:44:12.065 [main] INFO  - Open Google Url
+13:44:13.593 [main] INFO  - Open Rooty Home Page
+13:44:16.666 [main] INFO  - Open Rooty Login Page
+13:44:16.887 [main] INFO  - sign in with vaild email & invaild password
+13:44:16.996 [main] INFO  - clicked on email id
+13:44:17.054 [main] INFO  - clicked on password
+13:44:18.442 [main] INFO  - clicked on login button
+13:44:19.484 [main] INFO  - Test Case Pass
+13:44:19.522 [main] INFO  - clear emailid
+13:44:19.555 [main] INFO  - clear password
+13:44:19.623 [main] INFO  - sign in with invaild email & vaild password
+13:44:19.694 [main] INFO  - clicked on email id
+13:44:20.761 [main] INFO  - clicked on password
+13:44:22.026 [main] INFO  - clicked on loginbutton
+13:44:23.061 [main] INFO  - Test Case Pass
+13:44:23.092 [main] INFO  - clear emailid
+13:44:23.124 [main] INFO  - clear password
+13:44:23.130 [main] INFO  - sign in with invaild email & invaild password
+13:44:23.197 [main] INFO  - clicked on email id
+13:44:23.261 [main] INFO  - clicked on password
+13:44:24.474 [main] INFO  - clicked on loginbutton
+13:44:25.505 [main] INFO  - Test Case Pass
+13:44:25.538 [main] INFO  - clear emailid
+13:44:25.571 [main] INFO  - clear password
+13:44:25.578 [main] INFO  - sign in with blank email or blank password
+13:44:25.635 [main] INFO  - Empty email
+13:44:25.682 [main] INFO  - Empty password
+13:44:25.736 [main] INFO  - clicked on loginbutton
+13:44:26.763 [main] INFO  - Test Case fail Login to Your Account
+13:44:26.771 [main] INFO  - sign in with vaild email & vaild password
+13:44:26.862 [main] INFO  - clicked on email id
+13:44:26.910 [main] INFO  - clicked on password
+13:44:28.288 [main] INFO  - clicked on loginbutton
+13:44:29.322 [main] INFO  - Test Case Pass 
+13:52:01.274 [main] INFO  - Open Google Url
+13:52:04.795 [main] INFO  - Open Rooty Home Page
+13:52:05.760 [main] INFO  - Open Rooty Login Page
+13:52:05.923 [main] INFO  - sign in with vaild email & invaild password
+13:52:06.020 [main] INFO  - clicked on email id
+13:52:06.083 [main] INFO  - clicked on password
+13:52:08.108 [main] INFO  - clicked on login button
+13:52:09.150 [main] INFO  - Test Case Pass
+13:52:09.189 [main] INFO  - clear emailid
+13:52:09.223 [main] INFO  - clear password
+13:52:09.295 [main] INFO  - sign in with invaild email & vaild password
+13:52:09.362 [main] INFO  - clicked on email id
+13:52:10.440 [main] INFO  - clicked on password
+13:52:11.700 [main] INFO  - clicked on loginbutton
+13:52:12.733 [main] INFO  - Test Case Pass
+13:52:12.762 [main] INFO  - clear emailid
+13:52:12.795 [main] INFO  - clear password
+13:52:12.804 [main] INFO  - sign in with invaild email & invaild password
+13:52:12.866 [main] INFO  - clicked on email id
+13:52:12.923 [main] INFO  - clicked on password
+13:52:14.174 [main] INFO  - clicked on loginbutton
+13:52:15.213 [main] INFO  - Test Case Pass
+13:52:15.242 [main] INFO  - clear emailid
+13:52:15.276 [main] INFO  - clear password
+13:52:15.280 [main] INFO  - sign in with blank email or blank password
+13:52:15.320 [main] INFO  - Empty email
+13:52:15.382 [main] INFO  - Empty password
+13:52:15.432 [main] INFO  - clicked on loginbutton
+13:52:16.458 [main] INFO  - Test Case fail Login to Your Account
+13:52:16.470 [main] INFO  - sign in with vaild email & vaild password
+13:52:16.555 [main] INFO  - clicked on email id
+13:52:16.619 [main] INFO  - clicked on password
+13:52:18.210 [main] INFO  - clicked on loginbutton
+13:52:19.238 [main] INFO  - Test Case Pass 
+13:56:25.779 [main] INFO  - Open Google Url
+13:56:30.081 [main] INFO  - Open Rooty Home Page
+13:56:31.195 [main] INFO  - Open Rooty Login Page
+13:56:31.341 [main] INFO  - sign in with vaild email & invaild password
+13:56:31.450 [main] INFO  - clicked on email id
+13:56:31.513 [main] INFO  - clicked on password
+13:56:32.900 [main] INFO  - clicked on login button
+13:56:33.931 [main] INFO  - Test Case Pass
+13:56:33.985 [main] INFO  - clear emailid
+13:56:34.032 [main] INFO  - clear password
+13:56:34.110 [main] INFO  - sign in with invaild email & vaild password
+13:56:34.178 [main] INFO  - clicked on email id
+13:56:35.240 [main] INFO  - clicked on password
+13:56:36.514 [main] INFO  - clicked on loginbutton
+13:56:37.554 [main] INFO  - Test Case Pass
+13:56:37.585 [main] INFO  - clear emailid
+13:56:37.615 [main] INFO  - clear password
+13:56:37.622 [main] INFO  - sign in with invaild email & invaild password
+13:56:37.684 [main] INFO  - clicked on email id
+13:56:37.742 [main] INFO  - clicked on password
+13:56:39.023 [main] INFO  - clicked on loginbutton
+13:56:40.057 [main] INFO  - Test Case Pass
+13:56:40.087 [main] INFO  - clear emailid
+13:56:40.120 [main] INFO  - clear password
+13:56:40.126 [main] INFO  - sign in with blank email or blank password
+13:56:40.181 [main] INFO  - Empty email
+13:56:40.241 [main] INFO  - Empty password
+13:56:40.292 [main] INFO  - clicked on loginbutton
+13:56:41.326 [main] INFO  - Test Case fail Login to Your Account
+13:56:41.331 [main] INFO  - sign in with vaild email & vaild password
+13:56:41.411 [main] INFO  - clicked on email id
+13:56:41.470 [main] INFO  - clicked on password
+13:56:42.927 [main] INFO  - clicked on loginbutton
+13:56:43.960 [main] INFO  - Test Case Pass 
+13:59:17.528 [main] INFO  - Open Google Url
+13:59:23.001 [main] INFO  - Open Rooty Home Page
+13:59:23.835 [main] INFO  - Open Rooty Login Page
+13:59:23.983 [main] INFO  - sign in with vaild email & invaild password
+13:59:24.089 [main] INFO  - clicked on email id
+13:59:24.150 [main] INFO  - clicked on password
+13:59:25.459 [main] INFO  - clicked on login button
+13:59:26.494 [main] INFO  - Test Case Pass
+13:59:26.534 [main] INFO  - clear emailid
+13:59:26.567 [main] INFO  - clear password
+13:59:26.635 [main] INFO  - sign in with invaild email & vaild password
+13:59:26.711 [main] INFO  - clicked on email id
+13:59:27.777 [main] INFO  - clicked on password
+13:59:28.987 [main] INFO  - clicked on loginbutton
+13:59:30.015 [main] INFO  - Test Case Pass
+13:59:30.045 [main] INFO  - clear emailid
+13:59:30.077 [main] INFO  - clear password
+13:59:30.084 [main] INFO  - sign in with invaild email & invaild password
+13:59:30.145 [main] INFO  - clicked on email id
+13:59:30.204 [main] INFO  - clicked on password
+13:59:31.468 [main] INFO  - clicked on loginbutton
+13:59:32.489 [main] INFO  - Test Case Pass
+13:59:32.543 [main] INFO  - clear emailid
+13:59:32.584 [main] INFO  - clear password
+13:59:32.593 [main] INFO  - sign in with blank email or blank password
+13:59:32.645 [main] INFO  - Empty email
+13:59:32.684 [main] INFO  - Empty password
+13:59:32.731 [main] INFO  - clicked on loginbutton
+13:59:33.769 [main] INFO  - Test Case fail Login to Your Account
+13:59:33.776 [main] INFO  - sign in with vaild email & vaild password
+13:59:33.859 [main] INFO  - clicked on email id
+13:59:33.926 [main] INFO  - clicked on password
+13:59:35.546 [main] INFO  - clicked on loginbutton
+13:59:36.587 [main] INFO  - Test Case Pass 
+14:04:47.190 [main] INFO  - Open Google Url
+14:04:51.986 [main] INFO  - Open Rooty Home Page
+14:04:52.946 [main] INFO  - Open Rooty Login Page
+14:04:53.090 [main] INFO  - sign in with vaild email & invaild password
+14:04:53.180 [main] INFO  - clicked on email id
+14:04:53.246 [main] INFO  - clicked on password
+14:04:54.462 [main] INFO  - clicked on login button
+14:04:55.501 [main] INFO  - Test Case Pass
+14:04:55.537 [main] INFO  - clear emailid
+14:04:55.572 [main] INFO  - clear password
+14:04:55.643 [main] INFO  - sign in with invaild email & vaild password
+14:04:55.717 [main] INFO  - clicked on email id
+14:04:56.787 [main] INFO  - clicked on password
+14:04:58.018 [main] INFO  - clicked on loginbutton
+14:04:59.061 [main] INFO  - Test Case Pass
+14:04:59.108 [main] INFO  - clear emailid
+14:04:59.145 [main] INFO  - clear password
+14:04:59.151 [main] INFO  - sign in with invaild email & invaild password
+14:04:59.206 [main] INFO  - clicked on email id
+14:04:59.255 [main] INFO  - clicked on password
+14:05:00.516 [main] INFO  - clicked on loginbutton
+14:05:01.549 [main] INFO  - Test Case Pass
+14:05:01.580 [main] INFO  - clear emailid
+14:05:01.614 [main] INFO  - clear password
+14:05:01.620 [main] INFO  - sign in with blank email or blank password
+14:05:01.666 [main] INFO  - Empty email
+14:05:01.715 [main] INFO  - Empty password
+14:05:01.758 [main] INFO  - clicked on loginbutton
+14:05:02.790 [main] INFO  - Test Case fail Login to Your Account
+14:05:02.797 [main] INFO  - sign in with vaild email & vaild password
+14:05:02.892 [main] INFO  - clicked on email id
+14:05:02.955 [main] INFO  - clicked on password
+14:05:04.562 [main] INFO  - clicked on loginbutton
+14:05:05.587 [main] INFO  - Test Case Pass 
+14:05:58.976 [main] INFO  - Open Google Url
+14:06:01.965 [main] INFO  - Open Rooty Home Page
+14:06:03.067 [main] INFO  - Open Rooty Login Page
+14:06:03.209 [main] INFO  - sign in with vaild email & invaild password
+14:06:03.321 [main] INFO  - clicked on email id
+14:06:03.389 [main] INFO  - clicked on password
+14:06:04.622 [main] INFO  - clicked on login button
+14:06:05.658 [main] INFO  - Test Case Pass
+14:06:05.692 [main] INFO  - clear emailid
+14:06:05.726 [main] INFO  - clear password
+14:06:05.803 [main] INFO  - sign in with invaild email & vaild password
+14:06:05.884 [main] INFO  - clicked on email id
+14:06:06.958 [main] INFO  - clicked on password
+14:06:08.217 [main] INFO  - clicked on loginbutton
+14:06:09.254 [main] INFO  - Test Case Pass
+14:06:09.285 [main] INFO  - clear emailid
+14:06:09.319 [main] INFO  - clear password
+14:06:09.326 [main] INFO  - sign in with invaild email & invaild password
+14:06:09.389 [main] INFO  - clicked on email id
+14:06:09.445 [main] INFO  - clicked on password
+14:06:10.769 [main] INFO  - clicked on loginbutton
+14:06:11.799 [main] INFO  - Test Case Pass
+14:06:11.830 [main] INFO  - clear emailid
+14:06:11.872 [main] INFO  - clear password
+14:06:11.880 [main] INFO  - sign in with blank email or blank password
+14:06:11.924 [main] INFO  - Empty email
+14:06:11.971 [main] INFO  - Empty password
+14:06:12.020 [main] INFO  - clicked on loginbutton
+14:06:13.051 [main] INFO  - Test Case fail Login to Your Account
+14:06:13.056 [main] INFO  - sign in with vaild email & vaild password
+14:06:13.135 [main] INFO  - clicked on email id
+14:06:13.202 [main] INFO  - clicked on password
+14:06:14.594 [main] INFO  - clicked on loginbutton
+14:06:15.639 [main] INFO  - Test Case Pass 
